@@ -1,0 +1,20 @@
+h1{
+    color: #84ffc2;
+
+}
+
+.lmj-banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid 5px rgb(4, 51, 0);
+    padding: 32px;
+    font-size: 25px;
+    font-style: oblique;
+    text-transform: uppercase;
+
+}
+.lmj-logo{
+    width: 40px;
+    padding: 10px;
+}
